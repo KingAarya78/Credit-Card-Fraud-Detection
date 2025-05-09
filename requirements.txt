@@ -1,3 +1,5 @@
+# requirements.txt for Movie Rating Prediction Project
+
 pandas
 numpy
 scikit-learn
